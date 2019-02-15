@@ -1,0 +1,13 @@
+[main] INFO  com.ncu.validators.UrlValidation  - https://www.tutorialspoint.com/java/java_tutorial.pdf
+2019-02-15 11:14:37 INFO  Downloads:32 - https://www.tutorialspoint.com/java/java_tutorial.pdf	
+ 2019-02-15 11:16:30 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 11:32:46 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 13:22:04 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Failed
+ 2019-02-15 13:22:38 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 13:22:47 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 13:25:17 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 13:25:28 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 13:36:33 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 14:07:32 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-15 14:30:32 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 
