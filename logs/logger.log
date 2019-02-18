@@ -10,4 +10,105 @@
  2019-02-15 13:36:33 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
  2019-02-15 14:07:32 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
  2019-02-15 14:30:32 INFO  Downloads:61 - https://www.tutorialspoint.com/java/java_tutorial.pdf	Download Complete
+ 2019-02-18 12:09:05 INFO  Downloads:89 - URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\123.pdf 
+Status: Download Complete
+ 2019-02-18 12:12:16 INFO  Downloads:89 - URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\qwerty.pdf 
+Status: Download Complete
+ 2019-02-18 12:42:43 ERROR Downloads:74 - 
+ 
+com.ncu.exceptions.InvalidFolderException: invalid file namenull
+
+ 2019-02-18 12:43:02 INFO  Downloads:89 - 
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\fdgs.pdf 
+Status: Download Complete
+ 2019-02-18 12:43:50 ERROR Downloads:96 - 
+ 
+com.ncu.exceptions.InvalidDomainException: Invalid Domain"Oops.. You Have Entered An Invalid Domain...!"
+
+ 2019-02-18 12:47:47 INFO  Downloads:89 - 
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\236.pdf 
+Status: Download Complete
+ 2019-02-18 12:49:06 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\65.pdf 
+Status: Download Complete
+ 2019-02-18 12:50:05 ERROR Downloads:96 - 
+
+ 
+com.ncu.exceptions.InvalidDomainException: Invalid Domain"Oops.. You Have Entered An Invalid Domain...!"
+
+ 2019-02-18 12:50:39 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\655.pdf 
+Status: Download Complete
+ 2019-02-18 12:56:21 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\6598.pdf 
+Status: Download Complete
+ 2019-02-18 12:56:31 FATAL Downloads:113 - 
+Caught Exception 
+ java.io.FileNotFoundException: https://www.tutorialspoint.com/java/java_tutorial.pdffd
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1909)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:245)
+	at java.base/java.net.URL.openStream(URL.java:1117)
+	at com.ncu.validators.UrlValidation.urlValidator(UrlValidation.java:14)
+	at com.ncu.main.DownloadsManager.main(DownloadsManager.java:49)
+2019-02-18 12:57:38 FATAL Downloads:113 - 
+Caught Exception 
+ java.io.FileNotFoundException: https://www.tutorialspoint.com/java/java_tutorial.pdffd
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1909)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:245)
+	at java.base/java.net.URL.openStream(URL.java:1117)
+	at com.ncu.validators.UrlValidation.urlValidator(UrlValidation.java:14)
+	at com.ncu.main.DownloadsManager.main(DownloadsManager.java:49)
+2019-02-18 12:57:41 ERROR Downloads:96 - 
+
+com.ncu.exceptions.InvalidDomainException: Invalid Domain"Oops.. You Have Entered An Invalid Domain...!"
+
+ 2019-02-18 12:58:20 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\2.pdf 
+Status: Download Complete
+ 2019-02-18 12:58:32 ERROR Downloads:113 - 
+Caught Exception 
+ com.ncu.exceptions.InvalidFolderException: Invalid Folder Path Entered
+	at com.ncu.validators.PathValidation.pathValidator(PathValidation.java:17)
+	at com.ncu.main.DownloadsManager.main(DownloadsManager.java:58)
+2019-02-18 14:59:13 ERROR Downloads:96 - 
+
+com.ncu.exceptions.InvalidDomainException: Invalid Domain"Oops.. You Have Entered An Invalid Domain...!"
+
+ 2019-02-18 15:11:49 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\Sample.pdf 
+Status: Download Complete
+ 2019-02-18 15:12:41 INFO  Downloads:89 - 
+
+URL Requested: https://www.tutorialspoint.com/java/java_tutorial.pdf 
+Saved As: C:\\Users\\Shagun\\Documents\File.txt 
+Status: Download Complete
+ 2019-02-18 15:14:07 ERROR Downloads:96 - 
+
+com.ncu.exceptions.InvalidDomainException: Invalid Domain"Oops.. You Have Entered An Invalid Domain...!"
+
+ 2019-02-18 15:14:34 ERROR Downloads:113 - 
+Caught Exception 
+ com.ncu.exceptions.InvalidFolderException: Invalid Folder Path Entered
+	at com.ncu.validators.PathValidation.pathValidator(PathValidation.java:17)
+	at com.ncu.main.DownloadsManager.main(DownloadsManager.java:58)
+2019-02-18 15:14:48 ERROR Downloads:104 - 
+
+com.ncu.exceptions.NoInternetAccessException: No Internet Connection foundnull
+
  

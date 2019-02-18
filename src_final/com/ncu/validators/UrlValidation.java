@@ -11,6 +11,8 @@ public class UrlValidation
     {
         BufferedInputStream in = null;
 
+        // BufferedInputstream is used to read bytes from a stream.
+        //openStream is used to connect to the url
         in = new BufferedInputStream(new URL(urlString).openStream());
         if (in == null) 
         {

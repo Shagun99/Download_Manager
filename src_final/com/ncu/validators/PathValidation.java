@@ -18,13 +18,8 @@ public class PathValidation
 			//return false;
 		}
 		return true;
-		/*else
-		{
-			//If path exists return true		
-			System.out.println("valid path");	
-			return true;
-		}*/
 	}
+	
 	//Testing Driver
 	public static void main(String[] args)
 	{

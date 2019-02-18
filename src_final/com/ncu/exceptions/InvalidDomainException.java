@@ -1,7 +1,8 @@
 package com.ncu.exceptions;
 
-class InvalidDomainException extends Exception
+public class InvalidDomainException extends Exception
 { 
+	//creating an exception for invalid domain
 	public  InvalidDomainException ( String s )     
     {          
       super(s);
